@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/talkative.github.io/static/css/main.0d6cf9f9.css",
-    "main.js": "/talkative.github.io/static/js/main.f56e898b.js",
+    "main.js": "/talkative.github.io/static/js/main.7cfd6776.js",
     "static/media/robot.gif": "/talkative.github.io/static/media/robot.0617a41936621e9697cd.gif",
     "static/media/loader.gif": "/talkative.github.io/static/media/loader.4ace5f172a45b15a8274.gif",
     "static/media/logo.png": "/talkative.github.io/static/media/logo.1526ebf47bc9f25e6d55.png",
     "index.html": "/talkative.github.io/index.html",
     "main.0d6cf9f9.css.map": "/talkative.github.io/static/css/main.0d6cf9f9.css.map",
-    "main.f56e898b.js.map": "/talkative.github.io/static/js/main.f56e898b.js.map"
+    "main.7cfd6776.js.map": "/talkative.github.io/static/js/main.7cfd6776.js.map"
   },
   "entrypoints": [
     "static/css/main.0d6cf9f9.css",
-    "static/js/main.f56e898b.js"
+    "static/js/main.7cfd6776.js"
   ]
 }
